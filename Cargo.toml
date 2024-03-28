@@ -1,0 +1,12 @@
+[package]
+name = "server_obj_thread"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+pnet = "0.34.0"
+rand = "0.8"
+timed = "0.2.1"
+time = "0.3.34"
